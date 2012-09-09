@@ -1,0 +1,11 @@
+-OUTPUT = s.bin
+-FORMAT = 0
+-HEADER_FILE = STRPACK.java
+-HEADER_FILE_FORMAT = JAVA
+
+
++"Menu Title"					MENU_TITLE
++"Display size"					DISPLAY_SIZE
++"Video"					VIDEO
++"Audio"					AUDIO
++"Exit"						EXIT
